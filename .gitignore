@@ -4,11 +4,11 @@
 *.pyc
 __pycache__
 nohup.out
-user.cfg
+#user.cfg
 .idea/
 .vscode/
 .replit
 venv/
 crypto_trading.db
-apprise.yml
+#apprise.yml
 .DS_Store

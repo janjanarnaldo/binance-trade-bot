@@ -1,0 +1,6 @@
+# Define version
+version: 1
+
+urls:
+  - discord://817993827767943168/whS_ZTUio-BjvqjIF_qiak90Ju4AbL2qnfXLPv-wrypvLT7PhZLur_wp_mPQ6kdaY7pf/
+  # More options here: https://github.com/caronc/apprise
